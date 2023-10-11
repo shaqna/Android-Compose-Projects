@@ -32,7 +32,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    GreetingImage(message = "Happy Birthday Sam!", from = "From Emma")
+                    GreetingImage(message = "Happy Birthday Yu!", from = "From Emma")
                 }
             }
         }
